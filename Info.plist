@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Logan McAnsh</string>
+	<key>Builder Version</key>
+	<string>12602.1.50.0.2</string>
+	<key>CFBundleDisplayName</key>
+	<string>Dapulse Pinned Tab Icon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.loganmcansh.dapulse-pinned-tab-icon</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>myfunctions.js</string>
+			</array>
+			<key>Start</key>
+			<array>
+				<string>jquery-2.2.2.min.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>give Dapulse a pinned tab icon</string>
+	<key>DeveloperIdentifier</key>
+	<string>L5J4X6VAC6</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>*.dapulse.com</string>
+				<string>www.dapulse.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>https://github.com/mcansh/dapulse-pinned-tab-icon</string>
+</dict>
+</plist>
