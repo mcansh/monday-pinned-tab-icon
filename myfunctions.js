@@ -1,1 +1,1 @@
-$('head').append('<link rel="mask-icon" href="http://mcansh.github.io/dapulse-pinned-tab-icon/dapulse.svg" color="#000">');
+$('head').append('<link rel="mask-icon" href="https://mcansh.github.io/Dapulse-Safari-Pinned-Tab-Icon/dapulse.svg" color="#000">');
