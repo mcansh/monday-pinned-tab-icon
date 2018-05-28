@@ -5,15 +5,15 @@
 	<key>Author</key>
 	<string>Logan McAnsh</string>
 	<key>Builder Version</key>
-	<string>12602.1.50.0.2</string>
+	<string>13605.2.8</string>
 	<key>CFBundleDisplayName</key>
-	<string>Dapulse Pinned Tab Icon</string>
+	<string>Monday Pinned Tab Icon</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.loganmcansh.dapulse-pinned-tab-icon</string>
+	<string>com.loganmcansh.monday-pinned-tab-icon</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.2</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>Content</key>
@@ -26,14 +26,14 @@
 			</array>
 			<key>Start</key>
 			<array>
-				<string>jquery-2.2.2.min.js</string>
+				<string>main.js</string>
 			</array>
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>give Dapulse a pinned tab icon</string>
+	<string>give Monday a pinned tab icon</string>
 	<key>DeveloperIdentifier</key>
-	<string>L5J4X6VAC6</string>
+	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -42,8 +42,8 @@
 		<dict>
 			<key>Allowed Domains</key>
 			<array>
-				<string>*.dapulse.com</string>
-				<string>www.dapulse.com</string>
+				<string>*.monday.com</string>
+				<string>monday.com</string>
 			</array>
 			<key>Include Secure Pages</key>
 			<true/>
@@ -52,6 +52,6 @@
 		</dict>
 	</dict>
 	<key>Website</key>
-	<string>https://github.com/mcansh/dapulse-pinned-tab-icon</string>
+	<string>https://github.com/mcansh/monday-pinned-tab-icon</string>
 </dict>
 </plist>
