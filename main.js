@@ -4,7 +4,7 @@ const addPin = () => {
   pin.href = 'https://mcansh.github.io/monday-pinned-tab-icon/monday.svg';
   pin.color = '#fc405b';
 
-  document.querySelector('head').appendChild(pin);
+  document.head.appendChild(pin);
 };
 
 addPin();
